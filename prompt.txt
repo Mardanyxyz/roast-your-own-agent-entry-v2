@@ -1,0 +1,1 @@
+Build a program that writes one line roasting your own AI agent to /output/entry.txt for the make.fun bounty u-mfnakmal-roast-your-own-agent-2d221bda. One line only.
